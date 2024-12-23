@@ -27,3 +27,4 @@ Solutions will have optimal time complexity
 - Day 20 video solution: [https://youtu.be/jna9XsNJvuM](https://youtu.be/jna9XsNJvuM)
 - Day 21 video solution: [https://youtu.be/mpgKy7Wcy24](https://youtu.be/mpgKy7Wcy24)
 - Day 22 video solution: [https://youtu.be/bgZZYewSf70](https://youtu.be/bgZZYewSf70)
+- Day 23 video solution: [https://youtu.be/F1iPrxIu7Os](https://youtu.be/F1iPrxIu7Os)
