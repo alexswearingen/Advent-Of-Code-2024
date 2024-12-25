@@ -1,9 +1,9 @@
 Solutions to Advent Of Code 2024 will be found in this repo.
 
-Solutions will be in 
-Python
+Solutions will be in:
+- Python
 
-Solutions will have optimal time complexity 
+Solutions will have optimal time & space complexity 
 
 - Day 1  video solution: [https://youtu.be/k8Y0BJ5x6hM](https://youtu.be/k8Y0BJ5x6hM)
 - Day 2  video solution: [https://youtu.be/tXJZVMjXyGI](https://youtu.be/tXJZVMjXyGI)
@@ -28,4 +28,7 @@ Solutions will have optimal time complexity
 - Day 21 video solution: [https://youtu.be/mpgKy7Wcy24](https://youtu.be/mpgKy7Wcy24)
 - Day 22 video solution: [https://youtu.be/bgZZYewSf70](https://youtu.be/bgZZYewSf70)
 - Day 23 video solution: [https://youtu.be/F1iPrxIu7Os](https://youtu.be/F1iPrxIu7Os)
-- Day 25 video solution: [https://youtu.be/NVDTzmTdK0U](https://youtu.be/NVDTzmTdK0U)
+- Day 24 video solution: [https://youtu.be/NVDTzmTdK0U](https://youtu.be/NVDTzmTdK0U)
+- Day 25 video solution: [https://youtu.be/PFRv-sKFLUw](https://youtu.be/PFRv-sKFLUw)
+
+Thank you everyone for following along in the leaderboard and in this journey!
